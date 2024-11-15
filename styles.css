@@ -21,7 +21,7 @@ header {
 .profile-pic {
     position: absolute;
     top: 100%;
-    transform: translateY(-50%);
+    transform: translateY(-60%);
     border-radius: 50%;
     width: 125px;
 }
